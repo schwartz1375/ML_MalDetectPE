@@ -1,0 +1,12 @@
+# .gitignore
+
+# dotenv
+.env/
+.DS_Store
+
+# data set
+data.csv 
+
+# working classifier and features
+./classifier.pkl 
+./features.pkl
